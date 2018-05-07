@@ -1,0 +1,10 @@
+<resources>
+    <!--Main Menu-->
+    <string name="app_name">Mad</string>
+    <string name="mainButtonAdd">Add A Workout</string>
+    <string name="mainButtonView">View Your Workouts</string>
+    <string name="mainButtonStats">View Your Stats</string>
+
+    <!--Add Workout Page-->
+    <string name="addworkoutTitle">Add a Workout</string>
+</resources>
